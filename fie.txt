@@ -1,0 +1,8 @@
+hai 
+helo 
+hw ru 
+fine
+bye
+test
+1 
+save file.txt
